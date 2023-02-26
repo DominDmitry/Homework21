@@ -13,9 +13,6 @@ button{
 .slide{
     display: none;
 }
-.d-none{
-    display: none;
-}
 .active{
     display: block;
 }
